@@ -179,4 +179,8 @@
     <string name="usb_default_config_title">USB</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
 
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Hide the hotspot name in the list of available Wi-Fi networks</string>
+
 </resources>
