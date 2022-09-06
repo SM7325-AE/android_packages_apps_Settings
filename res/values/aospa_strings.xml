@@ -198,4 +198,7 @@
         <item quantity="one">Up to <xliff:g id="device_num">%1$d</xliff:g> device can connect to this hotspot</item>
     </plurals>
 
+    <!-- SecurityHub -->
+    <string name="config_alternative_advanced_security_category_key"></string>
+
 </resources>
